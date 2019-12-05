@@ -18,7 +18,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7528906319,
+              "duration": 7555207326,
               "status": "passed"
             },
             "line": 7,
@@ -30,7 +30,7 @@
           },
           {
             "result": {
-              "duration": 440348287,
+              "duration": 311180749,
               "status": "passed"
             },
             "line": 8,
@@ -42,7 +42,7 @@
           },
           {
             "result": {
-              "duration": 2775808842,
+              "duration": 2797374201,
               "status": "passed"
             },
             "line": 9,
@@ -54,7 +54,7 @@
           },
           {
             "result": {
-              "duration": 4636476762,
+              "duration": 4576324509,
               "status": "passed"
             },
             "line": 10,
@@ -66,7 +66,7 @@
           },
           {
             "result": {
-              "duration": 1246640528,
+              "duration": 941350954,
               "status": "passed"
             },
             "line": 11,
@@ -83,6 +83,6 @@
     "description": "",
     "id": "flipkart-application-test",
     "keyword": "Feature",
-    "uri": "src/main/java/com/maven/stepdefinitions/login.feature"
+    "uri": "src/test/java/com/maven/stepdefinitions/login.feature"
   }
 ]

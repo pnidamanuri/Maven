@@ -9,12 +9,12 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 
 
-@CucumberOptions(features ="src/main/java/com/maven/stepdefinitions/login.feature", 
+@CucumberOptions(features ="src/test/java/com/maven/stepdefinitions/login.feature", 
 
 //format = {"pretty","html:/Users/pnidamanuri/workspace/Xtivia/reports"})
 plugin = {
 	"pretty", "json:reports/report.json", "junit:reports/report.xml", "html:reports/html" })
 
-public class Runner { 
+public class RunnerTest { 
 }
 
