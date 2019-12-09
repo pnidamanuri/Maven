@@ -63,7 +63,7 @@ import cucumber.api.java.en.When;
 				Thread.sleep(1000);
 				 homePage.Ele.click();
 				 Thread.sleep(1000);
-				 homePage.Samsung.click();
+//				 homePage.Samsung.click();
 				 Thread.sleep(1000);
 				 homePage.SamsungJ8.click();
 		    }
