@@ -71,7 +71,7 @@ import cucumber.api.java.en.When;
 		 		 
 		 @And("^I quit broswer$")
 		    public void i_quit_broswer() throws Throwable {
-		        driver.quit();
+//		        driver.quit();
 		    }
 
 	
