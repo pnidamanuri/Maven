@@ -49,35 +49,35 @@ formatter.match({
   "location": "Login_step_definition.user_on_home_page()"
 });
 formatter.result({
-  "duration": 7111590632,
+  "duration": 21717540369,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.login_to_the_application()"
 });
 formatter.result({
-  "duration": 420807303,
+  "duration": 477370098,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.i_go_to_iphone_store()"
 });
 formatter.result({
-  "duration": 2864018841,
+  "duration": 8154739984,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.i_navigate_to_samsung_store_and_select_sansung_j8()"
 });
 formatter.result({
-  "duration": 4477708073,
+  "duration": 2163896038,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.i_quit_broswer()"
 });
 formatter.result({
-  "duration": 993697674,
+  "duration": 992097148,
   "status": "passed"
 });
 });
