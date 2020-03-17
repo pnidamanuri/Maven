@@ -51,7 +51,7 @@ import cucumber.api.java.en.When;
 		 @Then("^I go to Iphone store$")
 		    public void i_go_to_iphone_store() throws Throwable {
 			 homePage=PageFactory.initElements(driver, HomePage.class);
-				Thread.sleep(7000);
+				Thread.sleep(4000);
 				 homePage.Ele.click();
 				 Thread.sleep(1000);
 				 homePage.Apple.click();
@@ -60,7 +60,7 @@ import cucumber.api.java.en.When;
 		 @And("^I navigate to Samsung store")
 		    public void i_navigate_to_samsung_store_and_select_sansung_j8() throws Throwable {
 			 homePage=PageFactory.initElements(driver, HomePage.class);
-				Thread.sleep(1000);
+				Thread.sleep(4000);
 				 homePage.Ele.click();
 				 Thread.sleep(1000);
 				 homePage.Samsung.click();
@@ -71,7 +71,8 @@ import cucumber.api.java.en.When;
 		 		 
 		 @And("^I quit broswer$")
 		    public void i_quit_broswer() throws Throwable {
-//		        driver.quit();
+		     Thread.sleep(3000);   
+			 driver.quit();
 		    }
 
 	

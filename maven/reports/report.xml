@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.308265">
-<testcase classname="Flipkart application test" name="Login to Flipkart" time="20.308265">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="22.667232">
+<testcase classname="Flipkart application test" name="Login to Flipkart" time="22.667232">
 <system-out><![CDATA[Given user on home page.....................................................passed
 When Login to the application...............................................passed
 Then I go to Iphone store...................................................passed
-And I navigate to Samsung store and select Sansung J8.......................passed
+And I navigate to Samsung store.............................................passed
 And I quit broswer..........................................................passed
 ]]></system-out>
 </testcase>

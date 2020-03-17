@@ -37,7 +37,7 @@ formatter.step({
 });
 formatter.step({
   "line": 10,
-  "name": "I navigate to Samsung store and select Sansung J8",
+  "name": "I navigate to Samsung store",
   "keyword": "And "
 });
 formatter.step({
@@ -49,35 +49,35 @@ formatter.match({
   "location": "Login_step_definition.user_on_home_page()"
 });
 formatter.result({
-  "duration": 9471875619,
+  "duration": 7832753749,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.login_to_the_application()"
 });
 formatter.result({
-  "duration": 477561921,
+  "duration": 526359533,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.i_go_to_iphone_store()"
 });
 formatter.result({
-  "duration": 8167682792,
+  "duration": 5140667391,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.i_navigate_to_samsung_store_and_select_sansung_j8()"
 });
 formatter.result({
-  "duration": 2191102908,
+  "duration": 5176289820,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.i_quit_broswer()"
 });
 formatter.result({
-  "duration": 41961,
+  "duration": 3991161302,
   "status": "passed"
 });
 });
